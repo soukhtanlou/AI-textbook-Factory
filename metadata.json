@@ -1,0 +1,7 @@
+{
+  "name": "Textbook Digitizer AI",
+  "description": "A comprehensive AI tool to convert textbook images into interactive multimedia content including audio scripts, videos, and dialogue.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
